@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/t3sco/Gratis.git"
+commit = "02fe88f9470f8bff83e25bfa5d58855c53d73c0e"
+owners = ["t3sco"]
+project_path = "Gratis"
+changelog = "First release to testing. A flat, minimal replacement for the in-game map: search any place, quick setup looks, settings presets, an in-map quest log, travel cards, and dozens of small quality-of-life tweaks. Open with /gratis."
